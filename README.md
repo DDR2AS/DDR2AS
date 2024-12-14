@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Diego
+<h1 align="center">Hi there 👋, I'm Diego</h1>
 
 ## About me ✨
 
