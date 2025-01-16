@@ -2,6 +2,8 @@
 
 ## About me ✨
 
+![ViewCount](https://views.whatilearened.today/views/github/DDR2AS/DDR2AS/edit/main/README.md)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for opportunities
