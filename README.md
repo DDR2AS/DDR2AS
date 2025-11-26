@@ -2,8 +2,6 @@
 
 ## About me ✨
 
-![ViewCount](https://views.whatilearened.today/views/github/DDR2AS/DDR2AS/edit/main/README.md)
-
 - 🔭 I’m currently working as data engineer building data pipelines in gcp
 - 🌱 I’m currently learning SQL, data analytics, GCP and Azure
 - 👯 I’m looking to collaborate on projects with AI
